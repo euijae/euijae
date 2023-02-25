@@ -24,11 +24,10 @@ I'm Euijae, a senior software engineer at Nike who loves to build algorithms and
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<!--- ## Stats
+## Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=euijae&theme=blue-green)
-<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=euijae&theme=blue-green) --->
+<!---![](https://github-readme-stats.vercel.app/api?username=euijae&hide=contribs,prs)--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=euijae)
 
 ## Project
 - Image processing and its algorithm
