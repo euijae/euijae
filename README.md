@@ -24,16 +24,18 @@ I'm Euijae, a senior software engineer at Nike who loves to build algorithms and
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Stats
+<!---## Stats
 
-<!---![](https://github-readme-stats.vercel.app/api?username=euijae&hide=contribs,prs)--->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=euijae)
+![](https://github-readme-stats.vercel.app/api?username=euijae&hide=contribs,prs)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=euijae)--->
 
 ## Project
+Will update this section shortly. 
+<!---
 - Image processing and its algorithm
 - NLP 
 
 ## Education
 
 - M.S. in Computer Science, New York University, 2022 - Present
-- B.A. in Applied Mathematics, University of California at Berkeley, 2014
+- B.A. in Applied Mathematics, University of California at Berkeley, 2014 --->
