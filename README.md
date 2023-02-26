@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Euijae, a senior software engineer at Nike who loves to build algorithms and systems that operate at scale. I am also passionate about image processing and solving complex problems in mathematical analysis. I'm a sneakerhead. If you know it, you know it. You're very welcome.
+I'm Euijae, a senior software engineer at Nike who loves to build algorithms and systems that operate at scale. I am also passionate about searching, sorting, image processing, and solving complex problems in mathematical analysis. I'm a sneakerhead. If you know it, you know it. You're very welcome.
 
 ## Skills
 
@@ -15,17 +15,15 @@ I'm Euijae, a senior software engineer at Nike who loves to build algorithms and
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 <br/>
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <br/>
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<!---## Stats
-
+<!---![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+## Stats
 ![](https://github-readme-stats.vercel.app/api?username=euijae&hide=contribs,prs)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euijae)--->
 
