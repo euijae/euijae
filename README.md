@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Euijae, a senior software engineer at Nike who loves to build algorithms and systems that operate at scale. I am also passionate about searching, sorting, image processing, and solving complex problems in mathematical analysis. I'm a sneakerhead. If you know it, you know it. You're very welcome.
+I'm Euijae, a senior software engineer at Nike who loves to build algorithms and systems that operate at scale. I am also passionate about searching, sorting, image processing, and solving complex problems in mathematical analysis. I'm a sneakerhead. If you know it, you know it. 
 
 ## Skills
 
